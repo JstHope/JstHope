@@ -11,9 +11,5 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsthope&show_icons=true&theme=dark&locale=en&layout=compact" alt="jsthope" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsthope&show_icons=true&theme=dark&locale=en" alt="jsthope" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsthope&theme=dark" alt="jsthope" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsthope&show_icons=true&theme=onedark&locale=en&layout=compact" alt="jsthope" /></p>
 
